@@ -1,6 +1,7 @@
 # Php-Timer
 php定时器 web管理计划任务 提供socket接口动态添加任务 php timer task like js  setinterval settimeout
 
+@author randy QQ: 609176445
 
 ### 建议socket端口只开内网
 
